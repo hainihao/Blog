@@ -10,7 +10,7 @@
     <!-- 指定项目编码 -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <junit.version>4.12</junit.version>
-    <org.springframework.version>5.1.8.RELEASE</org.springframework.version>
+    <org.springframework.version>5.2.3.RELEASE</org.springframework.version>
     <druid.version>0.2.6</druid.version>
   </properties>
 
